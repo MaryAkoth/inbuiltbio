@@ -47,32 +47,32 @@ My work blends **software development**, **artificial intelligence**, and **data
 
 ---
 
-## 🧩 Featured Projects
+##  Featured Projects
 
-### 🌾 Inua Mkulima
+###  Inua Mkulima
 A digital platform connecting farmers to job opportunities, providing real-time weather insights, crop advisory, and sustainable farming strategies.
 
-### 🤖 AI Crop Disease Prediction Tool
+###  AI Crop Disease Prediction Tool
 A computer-vision powered system that detects crop diseases using machine learning.  
 Built using Python, TensorFlow, and a custom dataset.
 
-### 🌱 Eco-Friendly Farming Inputs Marketplace
+###  Eco-Friendly Farming Inputs Marketplace
 An online platform where farmers can buy/sell eco-friendly fertilizers, seedlings, and pesticides.
 
-### 📁 Django File Upload API (DRF)
+###  Django File Upload API (DRF)
 A robust API for uploading documents, validating file types, and storing them securely.  
 Successfully tested using Postman. 
 
-### 🪑 Fine Fix Furnitures System
+###  Fine Fix Furnitures System
 A backend system for managing furniture bookings, client records, and orders.
 
-### 🏥 Student Health Record System
+###  Student Health Record System
 A health records management platform built using VSCode + PHP + XAMPP + MySQL.
 
-### ♻ Waste Management & Recycling App
+###  Waste Management & Recycling App
 An Android app idea focusing on recycling, smart waste collection routes, and environmental awareness — developed for MAT Academy Hackathon.
 
-### 📊 BI & Data Dashboards
+###  BI & Data Dashboards
 Interactive dashboards analyzing:
 - Agriculture data  
 - Sales performance  
@@ -83,7 +83,7 @@ Using **Power BI**, **Python**, and **Pandas**.
 
 ---
 
-## 📘 Currently Learning  
+##  Currently Learning  
 Building deeper skills in **advanced Python**, **statistics**, **data visualization**, and **business intelligence storytelling**.
 
 ---
