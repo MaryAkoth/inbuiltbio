@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 I am a passionate data analyst who transforms raw data into clear, meaningful insights.  
 I enjoy turning business questions into data-driven solutions using **Python, SQL, Power BI, Excel, and Looker Studio**.
 My work blends **software development**, **artificial intelligence**, and **data analysis** to solve real-world problems.
