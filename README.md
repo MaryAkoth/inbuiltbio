@@ -89,6 +89,6 @@ Building deeper skills in **advanced Python**, **statistics**, **data visualizat
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaryAkoth&show_icons=true&theme=tokyonight)
+![GitHub Stats]
 ![Top Languages]
 
